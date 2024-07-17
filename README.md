@@ -7,6 +7,8 @@
  Akshat Shaw
  Linkedin : https://www.linkedin.com/in/akshat-shaw-695740317
 # Screenshots of the page
-![Alt text](https://1drv.ms/i/c/0333ebefc9212599/EWO6VDHoad5PqCDs--xasd0BoTKPwy4SNnWV5M61RChOXA?e=SJ6xYk)
-![Alt text](https://1drv.ms/i/c/0333ebefc9212599/EWtivhifhzZLs4mQK5bBsrcBjdStyQxxv9o22npS6XIKYQ?e=9H7rva)
-![Alt text](https://1drv.ms/i/c/0333ebefc9212599/Ef-9jffjVw9Duk8Y5Qq7Or8BCvAM5UiiMTlQ9kpdXlFvlw?e=38mgMv)
+![Screenshot 2024-07-17 212123](https://github.com/user-attachments/assets/3b508f2c-81ca-4e20-bb9f-ca9433d993b7)
+![Screenshot 2024-07-17 212145](https://github.com/user-attachments/assets/95656b4d-3254-40b2-8593-a461bc084f2a)
+![Screenshot 2024-07-17 212137](https://github.com/user-attachments/assets/f8cfca49-8db4-4ce2-b964-faaf73c19e79)
+![Screenshot 2024-07-17 212137](https://github.com/user-attachments/assets/1283b6cc-8c47-4664-a823-6514701cea71)
+![Screenshot 2024-07-17 212145](https://github.com/user-attachments/assets/4c45c1d2-6deb-4397-98c8-31e4a5ad2da0)
